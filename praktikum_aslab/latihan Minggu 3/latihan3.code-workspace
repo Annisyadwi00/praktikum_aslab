@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../PBW praktek"
+		},
+		{
+			"path": "../PBW Praktek 2"
+		},
+		{
+			"path": "../PBW praktek 3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "latihan3"
+	}
+}
